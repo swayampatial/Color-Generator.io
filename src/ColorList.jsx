@@ -10,3 +10,4 @@ const ColorList = ({ colors }) => {
   );
 };
 export default ColorList;
+  
